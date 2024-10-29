@@ -1,0 +1,9 @@
+*{
+
+ margin: 10px;
+  box-sizing: border-box;
+}
+.App{
+  min-height: 100vh;
+  display: grid;
+}
